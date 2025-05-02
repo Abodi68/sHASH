@@ -1,4 +1,4 @@
-# sHASH
+# sHASH.2
 
 Hello! Welcome to my simple Hash tool or sHASH! 
 
