@@ -1,7 +1,7 @@
 /* * * * * * * * * * * * * * * * * * * * *
  * Title: sHASH
  *
- * Creator: Bodi
+ * Creator: A. Bodi
  *
  * IDE: Kate - Ubuntu Linux
  *
