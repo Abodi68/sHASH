@@ -9,12 +9,12 @@ mkdir -p sHASH/usr/local/bin
 
 # Create the control file
 cat <<EOF > sHASH/DEBIAN/control
-Package: shash
-Version: 1.0
+Package: shash.2
+Version: 0.4
 Section: utils
 Priority: optional
-Architecture: amd64
-Maintainer: Alexander Bodi <your-email@example.com>
+Architecture: all
+Maintainer: Bodi -abodi1@live.maryville.edu
 Description: A secure file hashing tool
  This tool calculates the SHA-256 hash of a given file and outputs the result.
 EOF
