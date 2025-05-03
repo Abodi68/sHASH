@@ -1,0 +1,14 @@
+Thu May  1 23:17:09 2025
+File Name: lorem_ipsum.txt
+File Path: "/home/greatwave/Capstone/lorem_ipsum.txt"
+SHA-256 Hash: 95b07c1763999ca7029df58209535d490e66ecc9a9b8c9d169edfbf9ca5fff90
+SHA-512 Hash: f0b9bcbdb7e878903cfeb64babda42f7222276d3c97e49cd4ced1a96e8e7d2b00b7894fd2ab1738094bfa104101e543d685092d126fc89718a47fc2663584202
+----------------------------------------------------------------
+
+Thu May  1 23:21:54 2025
+File Name: lorem_ipsum.txt
+File Path: "/home/greatwave/Capstone/lorem_ipsum.txt"
+SHA-256 Hash: 95b07c1763999ca7029df58209535d490e66ecc9a9b8c9d169edfbf9ca5fff90
+SHA-512 Hash: f0b9bcbdb7e878903cfeb64babda42f7222276d3c97e49cd4ced1a96e8e7d2b00b7894fd2ab1738094bfa104101e543d685092d126fc89718a47fc2663584202
+----------------------------------------------------------------
+
